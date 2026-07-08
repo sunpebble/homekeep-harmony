@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/sunpebble/homekeep-harmony/compare/v0.2.0...v0.2.1) (2026-07-08)
+
+
+### Bug Fixes
+
+* safe-area inset timing so the header no longer overlaps the status bar ([7a6bd0a](https://github.com/sunpebble/homekeep-harmony/commit/7a6bd0ada2e06d573dc059eaff34ba3525c742d4))
+
 ## [0.2.0](https://github.com/sunpebble/homekeep-harmony/compare/v0.1.1...v0.2.0) (2026-07-08)
 
 
